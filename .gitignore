@@ -1,0 +1,15 @@
+# ignore basic stuff
+
+~\$*
+*.swp
+*.swo
+*.swn
+*.swm
+.vscode/*
+*.working
+package*
+.DS_STORE
+
+# ignore local website builds
+web/apx/public
+web/summer2021/public
