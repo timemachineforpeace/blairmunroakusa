@@ -1,2 +1,2 @@
-# blairmunroakusa
-operator blairmunroakusa's pc component integration into the timemachineforpeace wpc
+# blairmunroakusa.timemachineforpeace
+This is operator blairmunroakusa's wpc integration as component in greater timemachineforpeace wpc.
